@@ -62,6 +62,7 @@ public class Menu {
                             System.out.println("5. Delete author");
                             System.out.println("6. Delete book");
                             System.out.println("7. For exit");
+                            System.out.println("-----------------------");
 
                             switch (Integer.parseInt(scanner.nextLine())) {
                                 case 1:
