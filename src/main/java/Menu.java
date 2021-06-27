@@ -13,6 +13,8 @@ public class Menu {
             System.out.println("1. Sign in");
             System.out.println("2. Sign up");
             System.out.println("3. Exit");
+            System.out.println("-------------------------");
+
             switch (Integer.parseInt(scanner.nextLine())) {
                 case 1:
                     System.out.println("--------LOGIN-------");
